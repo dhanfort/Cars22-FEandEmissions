@@ -5,3 +5,5 @@ This is the repo for the datasets and codes on the paper testing the use of unsu
 The datasets can be accessed through this URL: https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy
 
 The working clean datasets used in the paper for this work are in the folder "Working Datasets" while the raw data downloaded from US-EPA are in the folder "Raw US-EPA files" in this repo.
+
+The data analytics were done using SAS-JMP 16 software and MATLAB (for the SOM Toolbox).
